@@ -1,0 +1,58 @@
+{
+	"WBUI2": {
+		"settings": {
+			"OpenButton": 0,
+			"HideIcon": true,
+			"HideIconAfter": 300,
+			"IconURL": "https://imgur.com/SgDEAHv.png",
+			"DisableIconText": true,
+			"IconPosition": 3,
+			"IconTextColor": 0,
+			"OpenOnStart": true,
+			"OpenOnStartOnlyNewPlayers": true,
+			"UpdateInterval": 12
+		},
+		"tabs": [
+			{
+				"tab1": {
+					"layout": 1,
+					"buttontext": "Welcome",
+					"title1": "Welcome to SurvivalSpeed ARK!",
+					"text1": "Welcome to SurvivalSpeed !!!\n\nWe hope you will have a good and fun time here, But that is only possible if everyone follows our rules, you can find our rules in the 'Rules' tab in this menu.\n\nWe also have a Discord, its full of information you may need. every event or special happening will be reported there ! so make sure youre in it!!!\n\nIf you are intrested in other game servers, we offer other games too... just join our Discord to get direct connect links to all our servers we offer !",
+					"imageurl": "https://imgur.com/ypsj7ts.png"
+				}
+			},
+			{
+				"tab2": {
+					"layout": 2,
+					"buttontext": "Rules & Commands",
+					"title1": "Rules",
+					"text1": "There are currently no rules available, more info will be added soon.",
+					"title2": "Commands",
+					"text2": "There are currently no commands available, more info will be added soon.",
+					"imageurl": "https://imgur.com/ypsj7ts.png"
+				}
+			}
+		],
+		"links": [
+			{
+				"link1": {
+					"text": "Discord",
+					"url": "https://discord.gg/uwrQJ3BhGX"
+				}
+			},
+			{
+				"link1": {
+					"text": "Webstore",
+					"url": "https://survivalspeedark.tebex.io"
+				}
+			},
+			{
+				"link1": {
+					"text": "Webstore",
+					"url": "https://www.paypal.me/ARKSpeedPVP2"
+				}
+			}
+		]
+	}
+}
